@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ConditionalRemove.OldVersion</AssemblyName>
+    <RootNamespace>ConditionalRemove.OldVersion</RootNamespace>
+  </PropertyGroup>
+
+</Project>

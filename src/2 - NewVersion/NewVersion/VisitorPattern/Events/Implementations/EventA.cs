@@ -11,6 +11,7 @@
 
         public void MyCustomMethodOnA()
         {
+            return;
         }
     }
 }

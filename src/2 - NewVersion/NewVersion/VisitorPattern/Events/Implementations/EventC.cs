@@ -11,6 +11,7 @@
 
         public void MyCustomMethodOnC()
         {
+            return;
         }
     }
 }

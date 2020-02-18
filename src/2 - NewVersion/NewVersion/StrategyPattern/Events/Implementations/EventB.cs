@@ -4,10 +4,12 @@
     {
         public void MyCustomMethodOnB()
         {
+            return;
         }
 
         public void SomeAdditionalMethodB()
         {
+            return;
         }
     }
 }

@@ -4,6 +4,7 @@
     {
         public void MyCustomMethodOnA()
         {
+            return;
         }
     }
 }
